@@ -8,7 +8,7 @@ Kumpulan tools sederhana untuk Termux (Python 100%).
 ## Cara Pakai
 
 1. Daftar di virustotal.com buat dapetin API key gratis
-2. Set API key sebagai environment variable (jangan ditulis langsung di kode):
+2. Set API key sebagai environment variable:
 ```bash
 export VT_API_KEY="isi-key-kamu-disini"
 python ceklink.py https://contoh-link.com
